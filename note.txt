@@ -1,0 +1,7 @@
+cd ..
+.\venv\Scripts\activate
+cd projectsfile
+
+
+
+python manage.py runserver
